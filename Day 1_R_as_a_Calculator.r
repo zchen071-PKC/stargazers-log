@@ -1,4 +1,4 @@
-rm(list = ls()) #initialization_test
+rm(list = ls()) #initialization_
 
 ###########################Class Intro##############################
 #1. Online Syllabus: http://www.stat.wisc.edu/~byang/327-4
